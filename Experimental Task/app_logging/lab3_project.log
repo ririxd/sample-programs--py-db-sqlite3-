@@ -1,0 +1,15 @@
+2026-08-08 17:53:13,403 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Experimental Task\lab_tracker.db
+2026-08-08 17:54:57,137 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Experimental Task\lab_tracker.db
+2026-08-08 17:55:07,163 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Experimental Task\lab_tracker.db
+2026-08-08 18:33:28,546 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Experimental Task\lab_tracker.db
+2026-08-08 18:33:39,223 INFO Account Created: 'Admin123'
+2026-08-08 18:34:36,889 INFO User Logged In: 'Admin123'
+2026-08-08 18:35:18,021 ERROR Error adding experiment: database is locked
+2026-08-08 18:35:27,068 ERROR Error adding experiment: database is locked
+2026-08-08 18:35:31,889 WARNING Add Experiment validation failed: Student_id String should have at least 4 characters
+2026-08-08 18:35:40,346 ERROR Error adding experiment: database is locked
+2026-08-08 18:35:45,343 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Experimental Task\lab_tracker.db
+2026-08-08 18:35:57,024 INFO User Logged In: 'Admin123'
+2026-08-08 18:36:06,341 INFO Experiment added: 'Lab Act 2'
+2026-08-08 18:36:18,192 INFO Experiment added: 'Lab Act 5'
+2026-08-08 18:43:22,937 INFO Experiment added: 'Lab Exp 8'

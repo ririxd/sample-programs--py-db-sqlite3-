@@ -1,0 +1,41 @@
+2026-08-08 18:26:13,602 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-08 18:26:13,605 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-08 18:26:30,688 INFO Authentication success: user 'Admin123' logged in.
+2026-08-08 18:26:30,688 INFO User 'Admin123' accessed the inventory dashboard.
+2026-08-08 18:26:30,691 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-08 18:27:17,811 INFO Inventory item updated: ID 1, Arduino Uno (Microprocessor), qty=3, price=1000.0, status=Low Stock
+2026-08-08 18:27:34,647 INFO Inventory item updated: ID 5, 18650 (Power), qty=0, price=30.0, status=Out of Stock
+2026-08-08 18:27:54,778 INFO Inventory report generated at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\inventory_report.csv
+2026-08-08 18:27:54,778 INFO CSV report exported successfully to C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\inventory_report.csv
+2026-08-08 18:44:12,087 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-08 18:44:12,088 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-08 18:46:00,794 WARNING Authentication attempt: registration failed because user 'Admin123' already exists.
+2026-08-08 18:46:00,794 WARNING Registration failed: Username already exists.
+2026-08-08 18:46:27,362 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-08 18:46:27,362 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-08 18:46:44,681 INFO Authentication attempt: user 'Red123' registered successfully.
+2026-08-08 18:46:44,681 INFO User 'Red123' completed registration.
+2026-08-08 18:47:16,388 WARNING Authentication attempt: registration failed because user 'Red123' already exists.
+2026-08-08 18:47:16,388 WARNING Registration failed: Username already exists.
+2026-08-08 18:47:35,658 INFO Authentication success: user 'Red123' logged in.
+2026-08-08 18:47:35,658 INFO User 'Red123' accessed the inventory dashboard.
+2026-08-08 18:47:35,661 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-08 18:48:19,387 WARNING Duplicate inventory item name prevented: '7400'
+2026-08-08 18:48:19,387 WARNING Inventory save failure: Item '7400' already exists in the inventory.
+2026-08-08 18:56:39,104 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-08 18:56:39,105 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-08 18:56:48,844 INFO Authentication success: user 'Red123' logged in.
+2026-08-08 18:56:48,844 INFO User 'Red123' accessed the inventory dashboard.
+2026-08-08 18:56:48,846 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-08 18:57:02,749 INFO Inventory item updated: ID 2, 7400 (IC), qty=4, price=10.0, status=Low Stock
+2026-08-08 18:57:42,007 INFO User logged out from the inventory dashboard.
+2026-08-08 18:57:42,013 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-13 08:17:06,388 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-13 08:17:06,389 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-13 16:25:10,122 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-13 16:25:10,124 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
+2026-08-13 16:25:21,761 INFO Authentication attempt: user 'Ace123' registered successfully.
+2026-08-13 16:25:21,761 INFO User 'Ace123' completed registration.
+2026-08-13 16:25:24,414 INFO Authentication success: user 'Ace123' logged in.
+2026-08-13 16:25:24,414 INFO User 'Ace123' accessed the inventory dashboard.
+2026-08-13 16:25:24,418 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab - Exp 3\Supplementary Activity\hardware_inventory.db
