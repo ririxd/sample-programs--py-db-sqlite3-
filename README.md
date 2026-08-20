@@ -77,4 +77,4 @@ python -m unittest discover -s "Experimental Task/tests"
 
 ## Notes
 
-This repository is intended for academic project use and may include multiple versions of the same lab activity in different folders.
+This repository was made out of academic experimetnts and may include multiple versions of the same lab activity in different folders. Users may use this repository as a start-up reference.
