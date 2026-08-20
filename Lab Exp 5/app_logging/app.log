@@ -1,0 +1,106 @@
+2026-08-20 07:59:39,504 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-12\test_login_and_registration_fl0\hardware_inventory.db
+2026-08-20 07:59:39,567 INFO REGISTRATION: role=USER, email=admin@example.com
+2026-08-20 07:59:39,623 INFO LOGIN_SUCCESS: role=USER
+2026-08-20 07:59:39,692 INFO LOGIN_FAILED: attempt=1
+2026-08-20 07:59:39,724 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-12\test_duplicate_email_is_reject0\hardware_inventory.db
+2026-08-20 07:59:39,816 INFO REGISTRATION: role=USER, email=admin@example.com
+2026-08-20 07:59:39,947 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-12\test_login_lockout_after_three0\hardware_inventory.db
+2026-08-20 07:59:40,052 INFO REGISTRATION: role=USER, email=admin@example.com
+2026-08-20 07:59:40,123 INFO LOGIN_FAILED: attempt=1
+2026-08-20 07:59:40,193 INFO LOGIN_FAILED: attempt=2
+2026-08-20 07:59:40,250 INFO LOGIN_FAILED: attempt=3
+2026-08-20 07:59:40,256 INFO LOGIN_BLOCKED: account locked
+2026-08-20 07:59:40,350 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-12\test_lockout_expires_and_reset0\hardware_inventory.db
+2026-08-20 07:59:40,418 INFO REGISTRATION: role=USER, email=admin@example.com
+2026-08-20 07:59:40,458 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-12\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-20 07:59:40,462 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-12\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-20 07:59:40,479 INFO INVENTORY_ADDED: Router, category=Network, quantity=4, status=Low Stock
+2026-08-20 07:59:40,500 INFO INVENTORY_ADDED: Switch, category=Network, quantity=2, status=Low Stock
+2026-08-20 08:00:39,710 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\tmpstlurg7n\test.db
+2026-08-20 08:00:39,765 INFO REGISTRATION: role=ADMIN, email=admin@example.com
+2026-08-20 08:00:39,823 INFO REGISTRATION: role=USER, email=user@example.com
+2026-08-20 08:00:39,885 INFO LOGIN_FAILED: attempt=1
+2026-08-20 08:00:39,942 INFO LOGIN_FAILED: attempt=2
+2026-08-20 08:00:40,001 INFO LOGIN_FAILED: attempt=3
+2026-08-20 08:00:40,008 INFO LOGIN_BLOCKED: account locked
+2026-08-20 08:00:40,020 INFO PASSWORD_RESET_REQUESTED: user@example.com
+2026-08-20 08:00:40,032 INFO PASSWORD_RESET_REVIEWED: request=1, status=APPROVED
+2026-08-20 08:00:40,091 INFO PASSWORD_RESET_COMPLETED: 
+2026-08-20 08:00:40,144 INFO LOGIN_SUCCESS: role=USER
+2026-08-20 08:00:40,156 INFO INVENTORY_ADDED: Router, category=Network, quantity=7, status=In Stock
+2026-08-20 08:00:40,164 INFO INVENTORY_EXPORTED: C:\Users\idbea\AppData\Local\Temp\tmpstlurg7n\inventory.csv
+2026-08-20 08:00:50,444 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\tmp55ynzwyr\test.db
+2026-08-20 08:00:50,503 INFO REGISTRATION: role=ADMIN, email=admin@example.com
+2026-08-20 08:00:50,559 INFO REGISTRATION: role=USER, email=user@example.com
+2026-08-20 08:00:50,617 INFO LOGIN_FAILED: attempt=1
+2026-08-20 08:00:50,683 INFO LOGIN_FAILED: attempt=2
+2026-08-20 08:00:50,743 INFO LOGIN_FAILED: attempt=3
+2026-08-20 08:00:50,749 INFO LOGIN_BLOCKED: account locked
+2026-08-20 08:00:50,764 INFO PASSWORD_RESET_REQUESTED: user@example.com
+2026-08-20 08:00:50,776 INFO PASSWORD_RESET_REVIEWED: request=1, status=APPROVED
+2026-08-20 08:00:50,835 INFO PASSWORD_RESET_COMPLETED: 
+2026-08-20 08:00:50,889 INFO LOGIN_SUCCESS: role=USER
+2026-08-20 08:00:50,900 INFO INVENTORY_ADDED: Router, category=Network, quantity=7, status=In Stock
+2026-08-20 08:00:50,909 INFO INVENTORY_EXPORTED: C:\Users\idbea\AppData\Local\Temp\tmp55ynzwyr\inventory.csv
+2026-08-20 08:01:57,903 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:01:57,905 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:02:47,741 INFO REGISTRATION: role=ADMIN, email=admin@gmail.com
+2026-08-20 08:03:03,691 INFO LOGIN_FAILED: attempt=1
+2026-08-20 08:03:07,394 INFO LOGIN_FAILED: unknown user
+2026-08-20 08:03:10,413 INFO LOGIN_FAILED: unknown user
+2026-08-20 08:03:27,399 INFO LOGIN_SUCCESS: role=ADMIN
+2026-08-20 08:03:27,412 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:04:46,962 INFO User logged out from the inventory dashboard.
+2026-08-20 08:04:46,975 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:05:09,449 INFO REGISTRATION: role=USER, email=user@gmail.com
+2026-08-20 08:05:19,372 INFO LOGIN_SUCCESS: role=USER
+2026-08-20 08:05:19,385 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:07:16,025 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:07:16,026 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:08:26,590 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:08:26,592 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:09:29,031 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:09:29,033 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:10:31,667 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:10:31,669 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:11:14,005 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:11:14,006 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:12:09,353 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:12:09,354 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:13:27,463 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:13:27,464 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:13:56,750 INFO LOGIN_SUCCESS: role=USER
+2026-08-20 08:13:56,762 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:15:09,756 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:15:09,757 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:15:22,307 INFO LOGIN_SUCCESS: role=USER
+2026-08-20 08:15:22,322 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:16:23,493 INFO INVENTORY_DELETED: item_id=1
+2026-08-20 08:17:14,871 INFO PASSWORD_CHANGED: 
+2026-08-20 08:17:26,217 INFO INVENTORY_EXPORTED: C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\inventory_report.csv
+2026-08-20 08:17:26,217 INFO CSV report exported successfully to C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\inventory_report.csv
+2026-08-20 08:17:48,865 INFO INVENTORY_ADDED: Arduino Uno, category=Microprocessor, quantity=500, status=In Stock
+2026-08-20 08:17:48,866 INFO Inventory save success: Item saved successfully.
+2026-08-20 08:20:04,104 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:20:04,105 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:20:18,535 INFO LOGIN_SUCCESS: role=USER
+2026-08-20 08:20:18,550 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:20:30,979 INFO User logged out from the inventory dashboard.
+2026-08-20 08:20:30,990 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:20:45,541 INFO LOGIN_FAILED: attempt=1
+2026-08-20 08:20:48,159 INFO LOGIN_FAILED: attempt=2
+2026-08-20 08:20:49,559 INFO LOGIN_FAILED: attempt=3
+2026-08-20 08:21:27,883 INFO PASSWORD_RESET_REQUESTED: user@gmail.com
+2026-08-20 08:21:44,207 INFO LOGIN_SUCCESS: role=ADMIN
+2026-08-20 08:21:44,219 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:22:38,122 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:22:38,123 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:22:46,939 INFO LOGIN_SUCCESS: role=ADMIN
+2026-08-20 08:22:46,954 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:22:56,826 INFO PASSWORD_RESET_REVIEWED: request=1, status=APPROVED
+2026-08-20 08:23:09,426 INFO User logged out from the inventory dashboard.
+2026-08-20 08:23:09,438 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db
+2026-08-20 08:23:24,257 INFO LOGIN_FAILED: attempt=1
+2026-08-20 08:23:49,501 INFO PASSWORD_RESET_COMPLETED: 
+2026-08-20 08:23:52,415 INFO LOGIN_SUCCESS: role=USER
+2026-08-20 08:23:52,428 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp 5\hardware_inventory.db

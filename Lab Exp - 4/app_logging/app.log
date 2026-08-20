@@ -1,0 +1,264 @@
+2026-08-13 08:07:10,089 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:07:10,091 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:27:58,723 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-0\test_login_and_registration_fl0\hardware_inventory.db
+2026-08-13 08:27:58,776 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:27:58,823 INFO Authentication success: user 'admin' logged in.
+2026-08-13 08:27:58,869 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:27:58,883 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-0\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:27:58,885 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-0\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:27:58,890 INFO Inventory item saved: Router (Network), qty=4, price=250.0, status=Low Stock
+2026-08-13 08:27:58,897 INFO Inventory item saved: Switch (Network), qty=2, price=120.0, status=Low Stock
+2026-08-13 08:32:20,792 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-1\test_login_and_registration_fl0\hardware_inventory.db
+2026-08-13 08:32:20,792 WARNING Registration failed: weak password for user 'admin' - Password must contain at least 1 uppercase letter.
+2026-08-13 08:32:20,865 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-1\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:32:20,866 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-1\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:32:20,871 INFO Inventory item saved: Router (Network), qty=4, price=250.0, status=Low Stock
+2026-08-13 08:32:20,877 INFO Inventory item saved: Switch (Network), qty=2, price=120.0, status=Low Stock
+2026-08-13 08:32:39,003 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-2\test_login_and_registration_fl0\hardware_inventory.db
+2026-08-13 08:32:39,054 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:32:39,100 INFO Authentication success: user 'admin' logged in.
+2026-08-13 08:32:39,146 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:32:39,163 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-2\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:32:39,165 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-2\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:32:39,171 INFO Inventory item saved: Router (Network), qty=4, price=250.0, status=Low Stock
+2026-08-13 08:32:39,176 INFO Inventory item saved: Switch (Network), qty=2, price=120.0, status=Low Stock
+2026-08-13 08:33:30,574 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:33:30,575 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:33:38,379 WARNING Registration failed: weak password for user 'admin' - Password must be at least 8 characters long.
+2026-08-13 08:33:49,843 WARNING Registration failed: weak password for user 'admin' - Password must contain at least 1 uppercase letter.
+2026-08-13 08:34:05,563 WARNING Registration failed: weak password for user 'admin' - Password must be at least 8 characters long.
+2026-08-13 08:34:55,464 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:34:55,465 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:35:48,862 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:35:48,863 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:36:07,260 WARNING Registration failed: weak password for user 'admin' - Password must contain at least 1 special character.
+2026-08-13 08:37:59,669 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-3\test_login_and_registration_fl0\hardware_inventory.db
+2026-08-13 08:37:59,669 WARNING Registration failed: invalid email for user 'admin' - Email is required.
+2026-08-13 08:37:59,753 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-3\test_duplicate_email_is_reject0\hardware_inventory.db
+2026-08-13 08:37:59,805 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:37:59,807 WARNING Registration failed: duplicate email 'admin@example.com' for user 'anotheruser'
+2026-08-13 08:37:59,835 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-3\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:37:59,837 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-3\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:37:59,843 INFO Inventory item saved: Router (Network), qty=4, price=250.0, status=Low Stock
+2026-08-13 08:37:59,850 INFO Inventory item saved: Switch (Network), qty=2, price=120.0, status=Low Stock
+2026-08-13 08:38:15,546 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-4\test_login_and_registration_fl0\hardware_inventory.db
+2026-08-13 08:38:15,597 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:38:15,643 INFO Authentication success: user 'admin' logged in.
+2026-08-13 08:38:15,691 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:38:15,712 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-4\test_duplicate_email_is_reject0\hardware_inventory.db
+2026-08-13 08:38:15,763 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:38:15,765 WARNING Registration failed: duplicate email 'admin@example.com' for user 'anotheruser'
+2026-08-13 08:38:15,782 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-4\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:38:15,784 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-4\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:38:15,789 INFO Inventory item saved: Router (Network), qty=4, price=250.0, status=Low Stock
+2026-08-13 08:38:15,795 INFO Inventory item saved: Switch (Network), qty=2, price=120.0, status=Low Stock
+2026-08-13 08:39:05,070 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:39:05,073 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:39:51,954 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-5\test_login_and_registration_fl0\hardware_inventory.db
+2026-08-13 08:39:52,005 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:39:52,053 INFO Authentication success: user 'admin' logged in.
+2026-08-13 08:39:52,099 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:39:52,120 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-5\test_duplicate_email_is_reject0\hardware_inventory.db
+2026-08-13 08:39:52,174 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:39:52,176 WARNING Registration failed: duplicate email 'admin@example.com' for user 'anotheruser'
+2026-08-13 08:39:52,256 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-5\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:39:52,259 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-5\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:39:52,264 INFO Inventory item saved: Router (Network), qty=4, price=250.0, status=Low Stock
+2026-08-13 08:39:52,271 INFO Inventory item saved: Switch (Network), qty=2, price=120.0, status=Low Stock
+2026-08-13 08:40:02,691 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-6\test_login_and_registration_fl0\hardware_inventory.db
+2026-08-13 08:40:02,750 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:40:02,799 INFO Authentication success: user 'admin' logged in.
+2026-08-13 08:40:02,857 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:40:02,886 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-6\test_duplicate_email_is_reject0\hardware_inventory.db
+2026-08-13 08:40:02,938 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:40:02,940 WARNING Registration failed: duplicate email 'admin@example.com' for user 'anotheruser'
+2026-08-13 08:40:02,959 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-6\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:40:02,961 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-6\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:40:02,966 INFO Inventory item saved: Router (Network), qty=4, price=250.0, status=Low Stock
+2026-08-13 08:40:02,973 INFO Inventory item saved: Switch (Network), qty=2, price=120.0, status=Low Stock
+2026-08-13 08:40:29,309 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:40:29,310 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:42:00,935 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-7\test_login_and_registration_fl0\hardware_inventory.db
+2026-08-13 08:42:00,986 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:42:01,032 INFO Authentication success: user 'admin' logged in.
+2026-08-13 08:42:01,079 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:42:01,098 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-7\test_duplicate_email_is_reject0\hardware_inventory.db
+2026-08-13 08:42:01,149 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:42:01,150 WARNING Registration failed: duplicate email 'admin@example.com' for user 'anotheruser'
+2026-08-13 08:42:01,167 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-7\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:42:01,168 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-7\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:42:01,173 INFO Inventory item saved: Router (Network), qty=4, price=250.0, status=Low Stock
+2026-08-13 08:42:01,178 INFO Inventory item saved: Switch (Network), qty=2, price=120.0, status=Low Stock
+2026-08-13 08:42:27,783 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:42:27,784 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:43:12,537 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:43:12,538 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:43:51,692 INFO Authentication attempt: user 'Admin' registered successfully.
+2026-08-13 08:44:21,706 WARNING Registration failed: duplicate email 'admin123@gmail.com' for user 'Admin123'
+2026-08-13 08:47:14,353 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-8\test_login_and_registration_fl0\hardware_inventory.db
+2026-08-13 08:47:14,405 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:47:14,456 INFO Authentication success: user 'admin' logged in.
+2026-08-13 08:47:14,506 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:47:14,522 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-8\test_duplicate_email_is_reject0\hardware_inventory.db
+2026-08-13 08:47:14,572 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:47:14,574 WARNING Registration failed: duplicate email 'admin@example.com' for user 'anotheruser'
+2026-08-13 08:47:14,592 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-8\test_login_lockout_after_three0\hardware_inventory.db
+2026-08-13 08:47:14,642 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:47:14,687 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:47:14,738 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:47:14,792 WARNING User 'admin' locked out for 30 seconds after 3.0 failed login attempts.
+2026-08-13 08:47:14,793 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:47:14,805 WARNING Authentication blocked for 'admin' for 29 seconds due to repeated failed logins.
+2026-08-13 08:47:14,888 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-8\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:47:14,889 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-8\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:47:14,894 INFO Inventory item saved: Router (Network), qty=4, price=250.0, status=Low Stock
+2026-08-13 08:47:14,902 INFO Inventory item saved: Switch (Network), qty=2, price=120.0, status=Low Stock
+2026-08-13 08:48:58,640 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-9\test_login_and_registration_fl0\hardware_inventory.db
+2026-08-13 08:48:58,691 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:48:58,737 INFO Authentication success: user 'admin' logged in.
+2026-08-13 08:48:58,795 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:48:58,816 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-9\test_duplicate_email_is_reject0\hardware_inventory.db
+2026-08-13 08:48:58,874 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:48:58,877 WARNING Registration failed: duplicate email 'admin@example.com' for user 'anotheruser'
+2026-08-13 08:48:58,898 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-9\test_login_lockout_after_three0\hardware_inventory.db
+2026-08-13 08:48:58,951 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:48:58,998 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:48:59,045 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:48:59,094 WARNING User 'admin' locked out for 30 seconds after 3.0 failed login attempts.
+2026-08-13 08:48:59,095 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:48:59,107 WARNING Authentication blocked for 'admin' for 29 seconds due to repeated failed logins.
+2026-08-13 08:48:59,109 WARNING Authentication blocked for 'admin' for 29 seconds due to repeated failed logins.
+2026-08-13 08:48:59,130 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-9\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:48:59,133 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-9\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:48:59,139 INFO Inventory item saved: Router (Network), qty=4, price=250.0, status=Low Stock
+2026-08-13 08:48:59,147 INFO Inventory item saved: Switch (Network), qty=2, price=120.0, status=Low Stock
+2026-08-13 08:50:32,806 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:50:32,806 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:50:50,151 WARNING Authentication attempt failed: incorrect password for 'Admin123'
+2026-08-13 08:50:53,919 WARNING Authentication attempt failed: incorrect password for 'Admin123'
+2026-08-13 08:50:55,630 WARNING User 'Admin123' locked out for 30 seconds after 3.0 failed login attempts.
+2026-08-13 08:50:55,631 WARNING Authentication attempt failed: incorrect password for 'Admin123'
+2026-08-13 08:51:01,950 WARNING Authentication blocked for 'Admin123' for 23 seconds due to repeated failed logins.
+2026-08-13 08:51:13,919 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:51:13,920 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:52:08,672 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:52:08,673 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:52:35,996 WARNING Registration failed: weak password for user 'Admin' - Password must contain at least 1 special character.
+2026-08-13 08:52:45,567 WARNING Authentication attempt: registration failed because user 'Admin' already exists.
+2026-08-13 08:53:09,460 WARNING Registration failed: duplicate email 'admin123@gmail.com' for user 'Admin23'
+2026-08-13 08:53:34,748 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:53:34,748 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:53:55,808 INFO Authentication attempt: user 'Ad123' registered successfully.
+2026-08-13 08:54:17,408 WARNING User 'Admin123' locked out for 30 seconds after 4.0 failed login attempts.
+2026-08-13 08:54:17,408 WARNING Authentication attempt failed: incorrect password for 'Admin123'
+2026-08-13 08:54:28,374 WARNING Authentication blocked for 'Admin123' for 19 seconds due to repeated failed logins.
+2026-08-13 08:54:34,188 WARNING Authentication blocked for 'Admin123' for 13 seconds due to repeated failed logins.
+2026-08-13 08:56:29,074 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-10\test_login_and_registration_fl0\hardware_inventory.db
+2026-08-13 08:56:29,125 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:56:29,173 INFO Authentication success: user 'admin' logged in.
+2026-08-13 08:56:29,220 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:56:29,239 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-10\test_duplicate_email_is_reject0\hardware_inventory.db
+2026-08-13 08:56:29,291 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:56:29,293 WARNING Registration failed: duplicate email 'admin@example.com' for user 'anotheruser'
+2026-08-13 08:56:29,310 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-10\test_login_lockout_after_three0\hardware_inventory.db
+2026-08-13 08:56:29,361 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 08:56:29,407 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:56:29,453 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:56:29,498 WARNING User 'admin' locked out for 30 seconds after 3.0 failed login attempts.
+2026-08-13 08:56:29,498 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 08:56:29,509 WARNING Authentication blocked for 'admin' for 29 seconds due to repeated failed logins.
+2026-08-13 08:56:29,510 WARNING Authentication blocked for 'admin' for 29 seconds due to repeated failed logins.
+2026-08-13 08:56:29,530 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-10\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:56:29,531 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-10\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 08:56:29,536 INFO Inventory item saved: Router (Network), qty=4, price=250.0, status=Low Stock
+2026-08-13 08:56:29,542 INFO Inventory item saved: Switch (Network), qty=2, price=120.0, status=Low Stock
+2026-08-13 08:56:49,002 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:56:49,002 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 08:57:03,439 WARNING Authentication attempt failed: incorrect password for 'Admin123'
+2026-08-13 08:57:05,201 WARNING Authentication attempt failed: incorrect password for 'Admin123'
+2026-08-13 08:57:07,097 WARNING User 'Admin123' locked out for 30 seconds after 3.0 failed login attempts.
+2026-08-13 08:57:07,098 WARNING Authentication attempt failed: incorrect password for 'Admin123'
+2026-08-13 08:57:40,660 WARNING User 'Admin123' locked out for 30 seconds after 4.0 failed login attempts.
+2026-08-13 08:57:40,662 WARNING Authentication attempt failed: incorrect password for 'Admin123'
+2026-08-13 09:00:09,987 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-11\test_login_and_registration_fl0\hardware_inventory.db
+2026-08-13 09:00:10,039 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 09:00:10,082 INFO Authentication success: user 'admin' logged in.
+2026-08-13 09:00:10,129 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 09:00:10,148 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-11\test_duplicate_email_is_reject0\hardware_inventory.db
+2026-08-13 09:00:10,201 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 09:00:10,203 WARNING Registration failed: duplicate email 'admin@example.com' for user 'anotheruser'
+2026-08-13 09:00:10,221 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-11\test_login_lockout_after_three0\hardware_inventory.db
+2026-08-13 09:00:10,270 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 09:00:10,313 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 09:00:10,356 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 09:00:10,401 WARNING User 'admin' locked out for 30 seconds after 3.0 failed login attempts.
+2026-08-13 09:00:10,401 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 09:00:10,408 WARNING Authentication blocked for 'admin' for 29 seconds due to repeated failed logins.
+2026-08-13 09:00:10,409 WARNING Authentication blocked for 'admin' for 29 seconds due to repeated failed logins.
+2026-08-13 09:00:10,429 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-11\test_lockout_expires_and_reset0\hardware_inventory.db
+2026-08-13 09:00:10,479 INFO Authentication attempt: user 'admin' registered successfully.
+2026-08-13 09:00:10,528 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 09:00:10,575 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 09:00:10,622 WARNING User 'admin' locked out for 30 seconds after 3.0 failed login attempts.
+2026-08-13 09:00:10,623 WARNING Authentication attempt failed: incorrect password for 'admin'
+2026-08-13 09:00:10,631 WARNING Authentication blocked for 'admin' for 30 seconds due to repeated failed logins.
+2026-08-13 09:00:10,641 INFO Authentication lockout expired for 'admin'; failed attempts reset.
+2026-08-13 09:00:10,683 INFO Authentication success: user 'admin' logged in.
+2026-08-13 09:00:10,701 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-11\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 09:00:10,702 INFO Database initialized successfully at C:\Users\idbea\AppData\Local\Temp\pytest-of-idbea\pytest-11\test_status_calculation_and_in0\hardware_inventory.db
+2026-08-13 09:00:10,707 INFO Inventory item saved: Router (Network), qty=4, price=250.0, status=Low Stock
+2026-08-13 09:00:10,713 INFO Inventory item saved: Switch (Network), qty=2, price=120.0, status=Low Stock
+2026-08-13 09:01:20,280 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 09:01:20,281 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 09:01:47,601 INFO Authentication attempt: user 'Test123' registered successfully.
+2026-08-13 09:02:31,273 WARNING Authentication attempt failed: incorrect password for 'Test123'
+2026-08-13 09:02:33,057 WARNING Authentication attempt failed: incorrect password for 'Test123'
+2026-08-13 09:02:34,332 WARNING User 'Test123' locked out for 30 seconds after 3.0 failed login attempts.
+2026-08-13 09:02:34,334 WARNING Authentication attempt failed: incorrect password for 'Test123'
+2026-08-13 09:03:08,054 INFO Authentication lockout expired for 'Test123'; failed attempts reset.
+2026-08-13 09:03:08,100 INFO Authentication success: user 'Test123' logged in.
+2026-08-13 09:03:08,106 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 09:03:28,399 INFO Inventory report generated at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\inventory_report.csv
+2026-08-13 09:03:28,399 INFO CSV report exported successfully to C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\inventory_report.csv
+2026-08-13 09:07:21,005 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 09:07:21,006 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 09:19:18,181 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 09:19:18,182 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 10:28:07,500 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 10:28:07,501 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 10:28:34,913 WARNING Registration failed: duplicate email 'test@gmail.com' for user 'test'
+2026-08-13 10:28:41,606 INFO Authentication attempt: user 'test' registered successfully.
+2026-08-13 10:28:56,426 INFO Authentication success: user 'test' logged in.
+2026-08-13 10:28:56,437 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 10:36:37,700 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 10:36:37,701 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 10:36:49,756 WARNING Authentication attempt failed: invalid password format for 'admin' - Password must be at least 8 characters long.
+2026-08-13 10:36:56,917 WARNING Authentication attempt failed: unknown user 'admin'
+2026-08-13 10:36:58,716 WARNING Authentication attempt failed: unknown user 'admin'
+2026-08-13 10:36:59,956 WARNING Authentication attempt failed: unknown user 'admin'
+2026-08-13 10:37:01,421 WARNING Authentication attempt failed: unknown user 'admin'
+2026-08-13 10:37:08,160 INFO Authentication success: user 'Admin' logged in.
+2026-08-13 10:37:08,176 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 10:37:11,716 INFO User logged out from the inventory dashboard.
+2026-08-13 10:37:11,727 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 10:37:23,866 WARNING Authentication attempt failed: incorrect password for 'Admin'
+2026-08-13 10:37:25,185 WARNING Authentication attempt failed: incorrect password for 'Admin'
+2026-08-13 10:37:26,602 WARNING User 'Admin' locked out for 30 seconds after 3.0 failed login attempts.
+2026-08-13 10:37:26,603 WARNING Authentication attempt failed: incorrect password for 'Admin'
+2026-08-13 16:18:16,249 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 16:18:16,252 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 16:19:50,500 INFO Authentication attempt: user 'Ace123' registered successfully.
+2026-08-13 16:20:06,107 WARNING Authentication attempt failed: incorrect password for 'Ace123'
+2026-08-13 16:20:09,834 WARNING Authentication attempt failed: incorrect password for 'Ace123'
+2026-08-13 16:20:12,665 WARNING User 'Ace123' locked out for 30 seconds after 3.0 failed login attempts.
+2026-08-13 16:20:12,666 WARNING Authentication attempt failed: incorrect password for 'Ace123'
+2026-08-13 16:20:47,829 INFO Authentication lockout expired for 'Ace123'; failed attempts reset.
+2026-08-13 16:20:47,923 INFO Authentication success: user 'Ace123' logged in.
+2026-08-13 16:20:47,973 INFO Database initialized successfully at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\hardware_inventory.db
+2026-08-13 16:21:18,912 INFO Inventory item saved: MicroBit (Microcontroller), qty=1000, price=3000.0, status=In Stock
+2026-08-13 16:21:18,913 INFO Inventory save success: Item saved successfully.
+2026-08-13 16:21:37,378 INFO Inventory item updated: ID 3, Potentiometer (Stationary), qty=3, price=15.0, status=Low Stock
+2026-08-13 16:21:45,606 INFO Inventory item updated: ID 3, Potentiometer (Stationary), qty=0, price=15.0, status=Out of Stock
+2026-08-13 16:21:57,992 INFO Inventory item deleted: ID 9
+2026-08-13 16:22:10,027 INFO Inventory report generated at C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\inventory_report.csv
+2026-08-13 16:22:10,027 INFO CSV report exported successfully to C:\Users\idbea\OneDrive\Desktop\Lab Exp - 4\inventory_report.csv

@@ -1,0 +1,10 @@
+item_id,item_name,category,quantity,unit_price,status
+2,7400,IC,4,10.0,Low Stock
+3,Potentiometer,Stationary,0,15.0,Out of Stock
+4,Switch,Stationary,2000,5.0,In Stock
+5,18650,Power,0,30.0,Out of Stock
+6,Breadboard,Boards,1000,120.0,In Stock
+7,Arduino Mega,Microprocessor,1000,1500.0,In Stock
+8,LED,Stationary,5000,2.0,In Stock
+10,Power Module,Power,500,25.0,In Stock
+11,MicroBit,Microcontroller,1000,3000.0,In Stock
